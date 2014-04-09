@@ -1,0 +1,87 @@
+	<html>
+	<head>
+	<title>MAARIT(TM) versio 2</title>
+	<base href="http://oranssi.ltv.cx/maarit/">
+	<link rel=stylesheet type"text/css" href="core/style.css">
+	</head>
+
+<body bgcolor="#ffffff" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+  <td width="100%" bgcolor="#FA9900" align="left" valign="top"><img src="core/maarit_label.gif" width="291" height="34" border="0" alt="MAARIT"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#FFFF00" align="left" valign="top"><img src="core/orange_to_yellow.gif" width="375" height="1" border="0"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#000000" align="left" valign="top"><img src="core/1pxl.gif" width="1" height="1" border="0""></td>
+ </tr>
+<!-- ITSE SIVU -->
+ <tr>
+  <td width="100%" align="left" valign="top">
+
+	<table width="600" cellpadding="15 cellspacing="0" border="0">
+	 <tr>
+	  <td width="100%" align="left" valign="top">
+
+<p>Yksinkertaine tai ei, mutta joka tapauksessa tällä skriptalla listaan helposti kuvia ja sellainen on tosi tarpeellinen. Ajan kuluessa tämä on hieman kehittynyt ja saanut lisää ominaisuuksia sekä käyttäjiä.</p>
+
+<p>Täällähän näitä sekalaisia kuva-arkistoja sitten on. Jos jotain bugeja löytyy niin ilmoittele <a href="mailto:mika@oranssi.org">sähköpostiin</a>. Kaikki kuvat on minun kamerallani otettu, ellei erikseen mainita. Kuvaajana en välttämättä ole ollut.</p>
+
+<p><i>~aom</i></p>
+
+<p><b>TÄRKEÄ PÄIVITYS!</b> Lue <a href="ohje.shtml">tämä sivu</a> ennenkuin edes kuvittelet voivasi ahtaa lapsellista käyttäytymistäsi maaritin keittiössä!</p>
+
+<p><b>LAN-tapahtumat</b></p>
+
+<menu>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=jassenlan&nayta=1-15">Jasse LAN</a><span class="normo"> pidettiin pienissä merkeissä, olikos jopa viisi osallistujaa</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=shlan&nayta=1-15">ShattaLAN 1</a><span class="normo"> oli kuuluisan salaliiton toinen lani tapahtuma...</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=mss_xmas_lan&nayta=1-15">mss_xmas_lan</a> <span class="normo"> - mss_fly piti Loimaalla kaksio asunnossaan pienet lanit, lähinnä silloisen Clan Silo Sybiliksen porukalle</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=asm01-1&nayta=1-15">ASM01</a><span class="normo"> on eka setti asmeilta + hePPadokaus!</span>
+<li><span class="normo">THELAN ja MarttiLAN kuvat ovat tauolla levytilan puutteen takia</span>
+</menu>
+
+<p><b>Juhlimista</b></p>
+
+<menu>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=djst&nayta=1-15">Dont Just Stand There</a> <span class="normo"> - Riihimäellä järjestetty underground-musiikki tapahtuma</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=dreamhall_aom&nayta=1-15">Dreamhall</a> <span class="normo"> - uuden vuoden reiivt 31-21-2001 </span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=dreamhall_dlz&nayta=1-15">Dreamhall</a> <span class="normo"> - uuden vuoden reiivt 31-12-2001 (delzin kameralla)</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm1&nayta=1-15">SLm1</a><span class="normo"> - salaliiton miitti</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm2&nayta=1-15">SLm2</a><span class="normo"> - salaliiton miitti</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm5_aom&nayta=1-15">SLm5</a><span class="normo"> - delzin moekki sattuma </span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm5_dlz&nayta=1-15">SLm5</a><span class="normo"> - delzin moekki sattuma (delzin kameralla)</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm7&nayta=1-15">SLm7</a><span class="normo"> - marcupilami</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=slm10&nayta=1-15">SLm10</a><span class="normo"> - camping @ saarijaervi</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=pyrys_15-12-2001&nayta=1-15">Pyry's</a> <span class="normo"> - pileet 15-12-2001</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=himos2&nayta=1-15">Himos-matka #2</a> <span class="normo"> - tammikuun jo perinteinen Himos-reissu</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=laivasemma&nayta=1-15">Laivasemma</a> <span class="normo"> niinku Lukiolaisten Liiton tapahtumia</span>
+</menu>
+
+<p><b>Muuta</b></p>
+
+<menu>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=nahkiaiset&nayta=1-15">Nahkiaiset</a><span class="normo"> - Forssan Yhteislyseossa 2001</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=juhannus02&nayta=1-15">Juhannus´02</a> <span class="normo"> - erikoisen erinomainen mökkiviikonloppu kesällä, vastarannalla Japani</span>
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=pumpulienkeli">Café Pumpulienkeli</a> <span class="normo"> - muutama sekalainen otos</span>
+</menu>
+
+<!--
+<li><a href="http://oranssi.ltv.cx/cgi-bin/maarit/kollaasi.cgi?kuvat=&nayta=1-15"></a> <span class="normo"> - </span>
+-->
+
+	  </td>
+	 </tr>
+	</table>
+
+  </td>
+ </tr>
+<!-- KOPYRIKHTIT JA SIVUN LOPPU -->
+ <tr>
+  <td width="100%" height="50" bgcolor="#ffffff" align="right" valign="bottom"><span class="cp">The code, layout and idea ©2000-2003 Copyright by Mika Marttila. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+ </tr>
+</table>
+
+	</body></html>

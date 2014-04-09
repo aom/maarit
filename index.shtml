@@ -1,0 +1,20 @@
+	<html>
+	<head>
+	<title>MAARIT(TM) versio 2</title>
+<!--	<base href="http://oranssi.org/maarit/"> -->
+	<link rel=stylesheet type"text/css" href="core/style.css">
+	</head>
+
+<body bgcolor="#ffffff" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+
+<center>
+
+<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+  <td width="100%" height="100%" align="center" valign="middle"><a href="kannat.shtml"><img src="core/maarit.gif" width="602" height="252" border="0" alt="MAARIT(TM) versio 2"></a></td>
+ </tr>
+</table>
+
+</center>
+
+	</body></html>

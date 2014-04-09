@@ -1,0 +1,71 @@
+/* If you found you're way to this file, you must answer */
+/* plz, aom.						 */
+/* 							 */
+/* Kumpi oli ensin? muna, kana, kukko vai ufo? 		 */
+/* Lähetä vastaus osoitteeseen: kysymys@nic.fi 		 */
+/* 							 */
+/* NOW ALSO IN ENGLISH!					 */
+/* 							 */
+/* Which was first? an egg, a chicken, a cook or an ufo? */
+/* Send your answer to the email-address: kysymys@nic.fi */
+/* 							 */
+
+p	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+li	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+.normo	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+.norm	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+.cp	       {font-size: 8pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-align: center;
+	 	color: #000000}
+.blak	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+.kuvaseli      {font-size: 8pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+.nu            {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #FA9900}
+.topic	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	color: #000000}
+
+
+h1	       {font-size: 18pt;
+	 	font-family: Impact, Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #404040}
+h2	       {font-size: 12pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #404040}
+h3	       {font-size: 10pt;
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #000000}
+
+a:link	       {
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #808080;
+	 	text-decoration: none}
+a:visited      {
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #5F5F5F;
+	 	text-decoration: none}
+a:active       {
+	 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	 	font-weight: bold;
+	 	color: #FFFFFF;
+	 	text-decoration: none}

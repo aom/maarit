@@ -1,0 +1,80 @@
+# maaritin muisti
+
+$pageheader = "/home/oranssi/public_html/maarit/core/header.dat";
+$pagefooter = "/home/oranssi/public_html/maarit/core/footer.dat";
+$laeskitdir = "/home/oranssi/public_html/maarit/laeskit";
+$coredir = "/home/oranssi/public_html/maarit/core";
+$nudir = "/home/oranssi/public_html/maarit/nu";
+$dir = "/home/oranssi/public_html/maarit";
+$url = "http://oranssi.org/maarit";
+
+sub PageHeader {
+    $page_header .= qq~<html>
+	<head>
+	<title>MAARIT(TM) versio 2: $title</title>
+	<base href="http://oranssi.org/maarit/">
+	<link rel=stylesheet type"text/css" href="core/style.css">
+	</head>
+
+<body bgcolor="#ffffff" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+  <td width="100%" bgcolor="#FA9900" align="left" valign="top"><img src="core/maarit_label.gif" width="291" height="34" border="0" alt="MAARIT"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#FFFF00" align="left" valign="top"><img src="core/orange_to_yellow.gif" width="375" height="1" border="0"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#000000" align="left" valign="top"><img src="core/1pxl.gif" width="1" height="1" border="0""></td>
+ </tr>
+<!-- ITSE SIVU -->
+ <tr>
+  <td width="100%" align="left" valign="top">
+
+
+    ~;
+}
+
+sub PageFooter {
+    $page_footer .= qq~</td>
+ </tr>
+<!-- KOPYRIKHTIT JA SIVUN LOPPU -->
+ <tr>
+  <td width="100%" height="50" bgcolor="#ffffff" align="right" valign="bottom"><span class="cp">Coding, layout and idea by Mika Marttila (mika at oranssi.org)&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+ </tr>
+</table>
+
+	</body></html>~;
+}
+
+sub PageTopic {
+    $page_topic .= qq~</td>
+ </tr>
+<!-- VÄLI TOPIK -->
+ <tr>
+  <td width="100%" bgcolor="#000000" align="left" valign="top"><img src="core/1pxl.gif" width="1" height="1" border="0""></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#FFFF00" align="left" valign="top"><img src="core/orange_to_yellow.gif" width="375" height="1" border="0"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#FA9900" align="left" valign="top"><span class="topic">&nbsp;&nbsp;&nbsp; $topic_title</span></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#FFFF00" align="left" valign="top"><img src="core/orange_to_yellow.gif" width="375" height="1" border="0"></td>
+ </tr>
+ <tr>
+  <td width="100%" bgcolor="#000000" align="left" valign="top"><img src="core/1pxl.gif" width="1" height="1" border="0""></td>
+ </tr>
+<!-- ITSE SIVU JATKUU -->
+ <tr>
+  <td width="100%" align="left" valign="top">
+
+    ~;
+}
+
+
+# the end.
+
+1;
